@@ -29,7 +29,12 @@ The dataset includes:
 - Proper sleep improves results  
 
 ---
+## 📸 Output
 
+### 🔥 Correlation Heatmap
+![Heatmap](heatmap.png)
+
+---
 ## 🛠 Tech Stack
 - R Programming  
 - ggplot2  
